@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TIMS grafics 1", "TIMS grafics 1.csproj", "{7D3C3704-25D0-4B33-948E-E644E1B71180}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D3C3704-25D0-4B33-948E-E644E1B71180}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D3C3704-25D0-4B33-948E-E644E1B71180}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D3C3704-25D0-4B33-948E-E644E1B71180}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D3C3704-25D0-4B33-948E-E644E1B71180}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0B9F99C-C595-4A79-B1FE-B0C2CA330089}
+	EndGlobalSection
+EndGlobal
